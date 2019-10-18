@@ -6,12 +6,12 @@ description: Study Notes
 
 # User settings
 username: Statistical Study Notes
-user_description: I'm a statistics graduate student. Visit my blog here. "https://blog.naver.com/jinis_stat"
+user_description: I'm a statistics graduate student. Visit my blog here : <a href="https://blog.naver.com/jinis_stat" target="_blank">https://blog.naver.com/jinis_stat</a>
 user_title: Projects and Research by Hyejin Sim
 email: simhj79@yonsei.ac.kr
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+#twitter_username: lorem_ipsum
+github_username:  "HyeJin, Sim"
+#gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
