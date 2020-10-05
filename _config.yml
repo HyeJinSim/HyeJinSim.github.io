@@ -5,8 +5,8 @@ description: Study Notes
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Statistical Study Notes
-user_description: I'm a statistics graduate student. Visit my blog here. <a href="https://blog.naver.com/jinis_stat" target="_blank"> https://blog.naver.com/jinis_stat</a>
+username: Statistics Study Notes
+user_description: I'm a graduate student in statistics. You can check out more posts by visiting my blog here. <a href="https://blog.naver.com/jinis_stat" target="_blank"> https://blog.naver.com/jinis_stat</a>
 user_title: Projects and Research by Hyejin Sim
 email: simhj79@yonsei.ac.kr
 #twitter_username: lorem_ipsum
